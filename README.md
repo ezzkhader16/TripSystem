@@ -49,9 +49,13 @@ This project was built as part of an Android Development course using **Java** a
 - **RecyclerView + Custom Adapter**  
 - **CardView UI Components**  
 - **SharedPreferences (Local Storage)**  
-- **Drawable Custom Shapes (UI/UX)**  
+- **Drawable Custom Shapes (UI/UX)**
+
+
 
 ---
+ ## Watch the video demo:  
+- **[https://drive.google.com/your-video-link](https://drive.google.com/file/d/1OBHUAV69K5RvsHhTvfMV-eo6sCZUaUZ_/view?usp=sharing)**
 
 ##  Developer
 **EzzAldin Amjad**  
